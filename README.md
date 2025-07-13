@@ -1,6 +1,6 @@
-# ESP32 CYD projects
+# ESP32 Cheap Yellow Display projects
 
-## ESP32 Weather Station
+## Weather Station
 
 This is a simple DIY weather station project built using an ESP32-based board.
 
