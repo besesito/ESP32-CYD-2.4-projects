@@ -1,6 +1,11 @@
-# ESP32 Weather Station
+# ESP32 CYD projects
+
+## ESP32 Weather Station
 
 This is a simple DIY weather station project built using an ESP32-based board.
+
+<img width="1518" height="1325" alt="image" src="https://github.com/user-attachments/assets/41bc07d9-7d3b-49c3-9485-43e4fe258675" />
+
 
 ## Features
 
@@ -13,14 +18,14 @@ This is a simple DIY weather station project built using an ESP32-based board.
 
 This project was built using a CYD (Cheap Yellow Display) ESP32 board purchased from AliExpress:
 
-*   **Product Link:** [CYD ESP32 2.4 inch](https://pl.aliexpress.com/item/1005008212152877.html)
+*   **Product Link:** [CYD ESP32 2.4 inch](https://pl.aliexpress.com/item/1005008212152877.html) ~10$
 
 ## Setup
 
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/besesito/ESP32-CYD-2.4-projects.git
     ```
 
 2.  **Open the `weather/weather.ino` file in the Arduino IDE.**
